@@ -3,7 +3,7 @@
 
 
 ###
-My name is Alessandra ... and I'm a student of science computer!
+My name is Alessandra ... and I'm a student of Computer Science!
 
 
 <img align="right" height="500" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
