@@ -1,10 +1,12 @@
 
-<img align="left" height="150" src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-raiden/sticker_9.png?fb4eb30007d3924bc7ffa7a80c96cbbf&d=200x200"  />
+<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1203164000733495407/1203367794968764477/Design-sem-nome-1--unscreen.gif?ex=65d0d697&is=65be6197&hm=094f6ae9e58590c456893be0535e0a364e8b172fd05b27c85bbad0e62d9a424c&"  />
+
 
 ###
 My name is Alessandra ... and I'm a student of science computer!
 
-<img align="right" height="530" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
+
+<img align="right" height="600" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
 
 
 ###
@@ -36,7 +38,7 @@ My name is Alessandra ... and I'm a student of science computer!
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lele237&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lele237&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
 </div>
 
 
@@ -56,6 +58,7 @@ My name is Alessandra ... and I'm a student of science computer!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  
 
 ###
  <div align="left">
@@ -64,8 +67,12 @@ My name is Alessandra ... and I'm a student of science computer!
  Continuous Learning:
   
   - Database;
-  - Cybersecurity.
+  - Cybersecurity;
+  - Java.
 
+ <div align="left">
+•*´¨`*~ஜ◦•◦✿◦•◦ೋஜ~*´¨`*•.¸¸.•*
+   
  <div align="left">
   <img src="https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/revision/latest?cb=20220119211156" height="30" alt="anaconda logo"  />
   <img width="3" />
@@ -73,4 +80,3 @@ My name is Alessandra ... and I'm a student of science computer!
   
 - Machine Learning Engineering.
 
-###
