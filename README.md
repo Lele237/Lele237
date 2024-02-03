@@ -6,7 +6,7 @@
 My name is Alessandra ... and I'm a student of science computer!
 
 
-<img align="right" height="600" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
+<img align="right" height="300" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
 
 
 ###
