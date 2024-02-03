@@ -1,12 +1,12 @@
 
-<img align="left" height="100" src="https://cdn.discordapp.com/attachments/1203164000733495407/1203367794968764477/Design-sem-nome-1--unscreen.gif?ex=65d0d697&is=65be6197&hm=094f6ae9e58590c456893be0535e0a364e8b172fd05b27c85bbad0e62d9a424c&"  />
+<img align="left" height="50" src="https://cdn.discordapp.com/attachments/1203164000733495407/1203367794968764477/Design-sem-nome-1--unscreen.gif?ex=65d0d697&is=65be6197&hm=094f6ae9e58590c456893be0535e0a364e8b172fd05b27c85bbad0e62d9a424c&"  />
 
 
 ###
 My name is Alessandra ... and I'm a student of science computer!
 
 
-<img align="right" height="400" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
+<img align="right" height="500" src="https://i.pinimg.com/originals/35/d9/d5/35d9d5fadd549ff8a9bf23706583556a.gif"  />
 
 
 ###
@@ -38,7 +38,7 @@ My name is Alessandra ... and I'm a student of science computer!
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lele237&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lele237&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="100" alt="stats graph"  />
 </div>
 
 
