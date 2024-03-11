@@ -66,9 +66,9 @@ My name is Alessandra ... and I'm a student of Computer Science!
   <img width="3" />
  Continuous Learning:
   
-  - Database;
-  - Cybersecurity;
-  - Java.
+  - Datascience;
+  - Cybersecurity.
+
 
  <div align="left">
 •*´¨`*~ஜ◦•◦✿◦•◦ೋஜ~*´¨`*•.¸¸.•*
