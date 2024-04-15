@@ -64,19 +64,7 @@ My name is Alessandra ... and I'm a student of Computer Science!
  <div align="left">
   <img src="https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/revision/latest?cb=20220119211156" height="30" alt="anaconda logo"  />
   <img width="3" />
- Continuous Learning:
-  
-  - Datascience;
-  - Cybersecurity.
+ Continuous Learning in Cybersecurity
 
 
- <div align="left">
-•*´¨`*~ஜ◦•◦✿◦•◦ೋஜ~*´¨`*•.¸¸.•*
-   
- <div align="left">
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg/revision/latest?cb=20220119211156" height="30" alt="anaconda logo"  />
-  <img width="3" />
- Goals:
-  
-- Machine Learning Engineering.
 
