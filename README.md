@@ -4,9 +4,6 @@ Bachelor's degree in Computer Science. Currently studying UI/UX design and Raspb
 ###
 
 <div align="center">
-  <a href=""https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" " target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
   <a href="flugato9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=&style=for-the-badge" height="20" "  />
   </a>
