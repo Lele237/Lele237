@@ -1,4 +1,4 @@
-
+Bachelor's degree in Computer Science. Currently studying UI/UX design and Raspberry programming. :0
 <img align="left" height="50" src="https://cdn.discordapp.com/attachments/1203164000733495407/1203367794968764477/Design-sem-nome-1--unscreen.gif?ex=65d0d697&is=65be6197&hm=094f6ae9e58590c456893be0535e0a364e8b172fd05b27c85bbad0e62d9a424c&"  />
 
 ###
