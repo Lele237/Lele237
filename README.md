@@ -86,69 +86,14 @@ Currently building my knowledge around programming, data analysis and databases,
 <tr>
 <td width="50%" valign="top">
 
-### `01` · Project Name
-
-Short description of the project.
-
-`Python` · `Pandas` · `SQL`
-
-[View project →](https://github.com/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02` · Project Name
-
-Short description of the project.
-
-`C++` · `SQL`
-
-[View project →](https://github.com/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03` · Project Name
-
-Short description of the project.
-
-`Python` · `NumPy`
-
-[View project →](https://github.com/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04` · Project Name
-
-Short description of the project.
-
-`Power BI` · `Excel`
-
-[View project →](https://github.com/)
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
 ## `ACTIVITY`
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=07070D&title_color=D8C6E8&text_color=AFA6BD&icon_color=B779B8" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=07070D&ring=9B6BAA&fire=D99AC8&currStreakLabel=D8C6E8&sideLabels=AFA6BD&dates=777080" width="49%"/>
-
+![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=lele237&theme=dark&accent=%23F59E0B)
 </div>
 
----
 
 <div align="center">
 
