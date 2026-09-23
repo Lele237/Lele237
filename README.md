@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="20%" src="./asas.png">
+<img width="100%" src="./renda.png">
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img width="90%" src="./heartshine.webp">
+<img width="20%" src="./asas.png">
 
 <br>
 
@@ -43,6 +43,8 @@ I'm currently exploring different areas of software development while building p
 │  ✦ Data & Technology                        │
 │   𓆩 Creative Coding                          │
 ╰──────────────────────────────────────────────╯
+
+</div>
 
 <br>
 
@@ -76,7 +78,7 @@ I'm currently exploring different areas of software development while building p
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,azure&theme=dark" />
 
 </td>
 
@@ -93,18 +95,12 @@ I'm currently exploring different areas of software development while building p
 </table>
 
 
-<div align="center">
+<div align="right">
+  
+### `𓆩 ☾ 𓆪 ACTIVITY 𓆩 ☾ 𓆪`
 
-<img width="90%" src="./heartshine.webp">
-
-<br>
-
-
-<div align="center">
-
-## `ACTIVITY`
 ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=lele237&theme=dark&accent=%23F59E0B)
-</div>
+<br>
 
 
 
