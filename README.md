@@ -35,8 +35,6 @@
 
 I'm a Computer Science student fascinated by the intersection of technology, creativity and science.
 
-I'm currently exploring different areas of software development while building projects and figuring out where I want to take my code next.
-
 ✦ things that interest me
 ╭───────────────────────────────╮                   
 │   ☽ Process and Automation                   │
