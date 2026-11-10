@@ -54,7 +54,7 @@ I'm a Computer Science student fascinated by the intersection of technology, cre
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c#&theme=dark" />
 
 </td>
 
