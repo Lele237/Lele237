@@ -54,8 +54,7 @@ I'm a Computer Science student fascinated by the intersection of technology, cre
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c#&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css&theme=dark" />
 </td>
 
 <td width="50%" valign="top">
@@ -82,7 +81,7 @@ I'm a Computer Science student fascinated by the intersection of technology, cre
 
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,dotnet&theme=dark" />
 
 `ServiceNow` · `SharePoint` · `Trello`
 
